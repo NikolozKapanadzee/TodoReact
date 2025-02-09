@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title {
+  color: #007fdb;
+  font-family: Inter;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  height: 100vh;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 296px;
+}
