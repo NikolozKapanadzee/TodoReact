@@ -5,6 +5,9 @@ import checkMark from "../../assets/images/realcheckmark.svg";
 import trashImg from "../../assets/images/trashImg.svg";
 import React, { useState, useEffect } from "react";
 
+
+//komponentebad dayofa ver movaswari 2 davaleba da 3 lekcia mqonda sanaxavi <3 <3 <3 <3 <3 + magari rtuli yofila todo reactze luka da guja davixmare wina davalebebi bevrad martivad wavida
+
 function Paragraph() {
     const [time, setTime] = useState(new Date());
     const [tasks, setTasks] = useState([]);
